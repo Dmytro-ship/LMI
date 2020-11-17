@@ -1,0 +1,15 @@
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\bin\Debug\Pract3LMI.exe.config
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\bin\Debug\Pract3LMI.exe
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\bin\Debug\Pract3LMI.pdb
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI.csprojAssemblyReference.cache
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\MainWindow.g.cs
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\App.g.cs
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI_MarkupCompile.cache
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI_MarkupCompile.lref
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\MainWindow.baml
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI.g.resources
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI.Properties.Resources.resources
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI.csproj.GenerateResource.cache
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI.exe
+C:\Users\Win 8.1\Desktop\Pract3LMI\Pract3LMI\obj\Debug\Pract3LMI.pdb
